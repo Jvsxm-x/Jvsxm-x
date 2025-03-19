@@ -1,5 +1,9 @@
 ### Hi there! 👋 I'm jassem choaut
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 🚀 Passionate Full-Stack Developer | 🔥 Tech Enthusiast | 🎯 Problem Solver  
 
 ---
